@@ -7,6 +7,6 @@
     return ""Please enter your password to continue"";
   }
 
-  return ""Login successfull"";
+  return ""Login successful"";
 }"
 
