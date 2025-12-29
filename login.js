@@ -1,6 +1,6 @@
 "function login(username, password) {
   if (!username) {
-    return ""Please enter your username to continue"";
+    return ""Please  enter your username to continue"";
   }
  
   if (!password) {
