@@ -1,11 +1,12 @@
 "function login(username, password) {
   if (!username) {
-    return ""Username is required"";
+    return ""Please enter your username to continue"";
   }
 
   if (!password) {
-    return ""Password is required"";
+    return ""Please enter your password to continue"";
   }
 
-  return ""Login successfull"";
+  return ""Login successful"";
 }"
+
