@@ -1,6 +1,11 @@
-function login(username, password) {
-  if (!username || !password) {
-    return "Invalid credentials";
+"function login(username, password) {
+  if (!username) {
+    return ""Username is required"";
   }
-  return "Login successfull";
-}
+
+  if (!password) {
+    return ""Password is required"";
+  }
+
+  return ""Login successful"";
+}"
